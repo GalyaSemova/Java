@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8bda330e-8ba9-4903-8446-e591c034184b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2J7yJLJAUepY4khWKEZcl4iE8uF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Acer/Desktop/Projects/UnitTesting&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.MagicianTests.testTakeDamageReducesHealthThrowsIfInitialHealthLessThan0">
+    <configuration name="MagicianTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="magicGame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="magicGame" />
+      <option name="MAIN_CLASS_NAME" value="magicGame.MagicianTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MagicianTests.testAddMagicAddsMagicToTheMagicianCollectionOfMagics" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="magicGame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="magicGame" />
+      <option name="MAIN_CLASS_NAME" value="magicGame.MagicianTests" />
+      <option name="METHOD_NAME" value="testAddMagicAddsMagicToTheMagicianCollectionOfMagics" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MagicianTests.testGetMagicReturnsNullIfNoMagicWithSuchName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="magicGame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="magicGame" />
+      <option name="MAIN_CLASS_NAME" value="magicGame.MagicianTests" />
+      <option name="METHOD_NAME" value="testGetMagicReturnsNullIfNoMagicWithSuchName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MagicianTests.testRemoveMagicRemovesAMagicFromMagiciansCollection" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="magicGame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="magicGame" />
+      <option name="MAIN_CLASS_NAME" value="magicGame.MagicianTests" />
+      <option name="METHOD_NAME" value="testRemoveMagicRemovesAMagicFromMagiciansCollection" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MagicianTests.testTakeDamageReducesHealthThrowsIfInitialHealthLessThan0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="magicGame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="magicGame" />
+      <option name="MAIN_CLASS_NAME" value="magicGame.MagicianTests" />
+      <option name="METHOD_NAME" value="testTakeDamageReducesHealthThrowsIfInitialHealthLessThan0" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MagicianTests.testTakeDamageReducesHealthThrowsIfInitialHealthLessThan0" />
+        <item itemvalue="JUnit.MagicianTests" />
+        <item itemvalue="JUnit.MagicianTests.testGetMagicReturnsNullIfNoMagicWithSuchName" />
+        <item itemvalue="JUnit.MagicianTests.testRemoveMagicRemovesAMagicFromMagiciansCollection" />
+        <item itemvalue="JUnit.MagicianTests.testAddMagicAddsMagicToTheMagicianCollectionOfMagics" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bda330e-8ba9-4903-8446-e591c034184b" name="Changes" comment="" />
+      <created>1671443342869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671443342869</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/UnitTesting$MagicianTests.ic" NAME="MagicianTests Coverage Results" MODIFIED="1671445661080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>magicGame.*</FILTER>
+    </SUITE>
+  </component>
+</project>
